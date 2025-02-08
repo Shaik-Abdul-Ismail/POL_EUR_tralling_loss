@@ -9,8 +9,8 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 import threading
 
 # Configuration
-API_ID = "d3245bd8-5bd6-474c-8ff7-f6913cd11f1b"
-API_SECRET = "DSj7irD5v7QBANpE"
+API_ID = "8e7e3013-e0ca-4cf9-b51d-28b2dfe4cc44"
+API_SECRET = "HuyAYTP3N3jVES6o"
 BASE_URL = "https://payeer.com/api/trade/"
 PAIR = "POL_EUR"  # Change this to your desired pair
 TRAILING_STOP_PERCENTAGE = 2  # Trailing stop percentage (e.g., 2%)
